@@ -1,12 +1,6 @@
 """
 UD00 - Activitats Avaluables 01
 Sistemes de Gestió Empresarial
-
-Programa amb les 7 activitats del PDF, totes en un únic fitxer
-i separades en funcions/mètodes.
-
-Comentaris: castellà, ja que el PDF permet fer els comentaris
-en castellà, valencià o anglés.
 """
 
 # ============================================================
